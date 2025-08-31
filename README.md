@@ -122,7 +122,7 @@ TOTAL CREDITED FOR INCOME TAX CALC: ₹xxx,xxx.00
 
 ## Transaction Pattern
 
-The script recognizes transaction patterns in this format: 
+The script recognizes transaction patterns in this format (Make sure the pdf is text based): 
 
 ![example_table.png](./example_table.png)
 ```
