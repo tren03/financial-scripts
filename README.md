@@ -12,10 +12,10 @@ This project automates the process of:
 
 ## Features
 
-- 📄 **PDF Extraction**: Extract transaction data from PDF bank statements using OCR
+- 📄 **PDF Extraction**: Extract transaction data from PDF bank statements using regex
 - 🧹 **Data Cleaning**: Parse and structure raw transaction text into organized data
 - 💰 **Income Categorization**: Automatically categorize transactions into:
-  - Salary payments (MPOWER)
+  - Salary payments (Use your company name)
   - Dividends and interest (NACH, INT.PD)
   - Other significant credits (>₹5000)
 - 📊 **Financial Analysis**: Calculate totals and generate monthly summaries
